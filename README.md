@@ -15,17 +15,21 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ### Part 1. Connect the Servo to your breadboard
 
-**a. Which color wires correspond to power, ground and signal?**
+**a. Which color wires correspond to power, ground and signal?**  
+Red is power,brown is ground and orange is signal.
 
 ### Part 2. Connect the Servo to your Arduino
 
-**a. Which Arduino pin should the signal line of the servo be attached to?**
+**a. Which Arduino pin should the signal line of the servo be attached to?**  
+PIN 9
 
-**b. What aspects of the Servo code control angle or speed?**
+**b. What aspects of the Servo code control angle or speed?**  
+`pos` controls the angle. The step size in the for loop controls the speed.
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+**Include a photo/movie of your raw circuit in action.**  
+[Link to video](https://youtu.be/5-4lbhh_udw) 
 
 ## Part D. Paper puppet
 
