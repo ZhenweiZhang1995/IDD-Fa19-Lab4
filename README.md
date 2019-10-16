@@ -33,7 +33,8 @@ PIN 9
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+**a. Make a video of your proto puppet.**  
+[Link to video](https://youtu.be/lnlFy87Xw1w) 
 
 ## Part E. Make it your own
 
